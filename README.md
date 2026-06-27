@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
