@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0046-permutations) |
@@ -24,10 +25,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
@@ -55,6 +58,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0046-permutations) |
