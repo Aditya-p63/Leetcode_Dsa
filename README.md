@@ -20,6 +20,7 @@
 | [0090-subsets-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0056-merge-intervals](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +101,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
