@@ -85,10 +85,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
 ## Binary Search
 |  |
