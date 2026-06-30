@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
@@ -97,6 +98,7 @@
 | [0048-rotate-image](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
