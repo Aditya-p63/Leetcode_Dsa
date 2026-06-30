@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0039-combination-sum) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
