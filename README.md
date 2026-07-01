@@ -113,6 +113,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
