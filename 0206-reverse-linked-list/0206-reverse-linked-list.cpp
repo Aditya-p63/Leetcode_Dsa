@@ -8,22 +8,35 @@ public:
         return temp;
     }
     ListNode* reverseList(ListNode* head) {
-    int n = 0;
-    ListNode* temp = head;
-    while(temp){
-        temp=temp->next;
-        n++;
+    // method 1
+    // int n = 0;
+    // ListNode* temp = head;
+    // while(temp){
+    //     temp=temp->next;
+    //     n++;
+    // }
+    // int i =0; 
+    // int j = n-1;
+    // while(i<j){
+    //     ListNode* left = getnode(head,i);
+    //     ListNode* right = getnode(head,j);
+    //     int t =left->val;
+    //     left->val=right->val;
+    //     right->val=t;
+    //     i++;j--;
+    // }
+    //     return head;
+
+    //method 2 
+    ListNode* prev=NULL;
+    ListNode* curr=head;
+    ListNode* NEXT=head;
+    while(curr!=NULL){
+        NEXT=curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=NEXT;
     }
-    int i =0; 
-    int j = n-1;
-    while(i<j){
-        ListNode* left = getnode(head,i);
-        ListNode* right = getnode(head,j);
-        int t =left->val;
-        left->val=right->val;
-        right->val=t;
-        i++;j--;
-    }
-        return head;
+    return prev;
     }
 };
