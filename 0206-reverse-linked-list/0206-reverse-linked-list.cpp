@@ -27,16 +27,23 @@ public:
     // }
     //     return head;
 
-    //method 2 
-    ListNode* prev=NULL;
-    ListNode* curr=head;
-    ListNode* NEXT=head;
-    while(curr!=NULL){
-        NEXT=curr->next;
-        curr->next=prev;
-        prev=curr;
-        curr=NEXT;
-    }
-    return prev;
+    //method  2  
+    // ListNode* prev=NULL;
+    // ListNode* curr=head;
+    // ListNode* NEXT=head;
+    // while(curr!=NULL){
+    //     NEXT=curr->next;
+    //     curr->next=prev;
+    //     prev=curr;
+    //     curr=NEXT;
+    // }
+    // return prev;
+    
+        //method 3
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* newhead=reverseList(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return newhead;
     }
 };
