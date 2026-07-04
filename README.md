@@ -39,6 +39,7 @@
 | [0037-sudoku-solver](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 ## Matrix
@@ -56,6 +57,7 @@
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
@@ -177,6 +179,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0237-delete-node-in-a-linked-list) |
