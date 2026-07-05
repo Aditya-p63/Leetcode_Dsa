@@ -1,7 +1,6 @@
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        // step 1
         Node* dummy = new Node(10);
         Node* tc = dummy;
         Node* temp = head;
@@ -12,48 +11,25 @@ public:
             temp = temp->next;
         }
         // step 2
-        Node* duplicate = dummy->next;
+        Node* b = dummy->next;
         Node* a = head;
-        Node* b = duplicate;
-        dummy = new Node(-1);
-        Node* tempc = dummy;
-        while (a) {
-            tempc->next = a;
-            a = a->next;
-            tempc = tempc->next;
-            tempc->next = b;
-            b = b->next;
-            tempc = tempc->next;
+        unordered_map<Node* , Node* >m;
+        Node* tempa = a;
+        Node* tempb = b;
+        while(tempa){
+            m[tempa]=tempb;
+            tempa = tempa->next;
+            tempb = tempb->next;
         }
-        dummy = dummy->next;
-        // step 3 dummy connection krenge
-        Node* t1 = dummy;
-        
-        while(t1){
-            Node* t2 = t1->next;
-            if(t1->random) {
-                t2->random = t1->random->next;
+        for(auto x : m){
+            Node* o = x.first;
+            Node* d = x.second;
+            if(o->random!=NULL){
+                Node* oran = o->random;
+                Node* dran = m[o->random];
+                d->random =  dran; 
             }
-            t1 = t1->next->next; 
         }
-       //step 4 seperation
-        Node* d1 = new Node(-1);
-        Node* d2 = new Node(-1);
-        t1 = d1;
-        Node* t2 = d2;
-        Node* t = dummy;
-        while(t){
-            t1->next = t;
-            t = t->next;
-            t1 = t1->next;
-            t2->next = t;
-            t = t->next;
-            t2 = t2->next;
-        }
-        t1->next = NULL;
-        t2->next = NULL;
-        d1 = d1->next;
-        d2 = d2->next;
-        return d2;
+        return b;
     }
 };
