@@ -11,6 +11,7 @@ public:
                 arr[k] = arr[j];
                 k++;
                 i = j;  
+                j++;
             }
         }
         return k;
