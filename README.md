@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0031-next-permutation) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0075-sort-colors) |
