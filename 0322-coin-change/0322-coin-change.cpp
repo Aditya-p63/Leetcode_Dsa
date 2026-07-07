@@ -1,16 +1,27 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int>dp(amount+1 , INT_MAX);
-        dp[0] = 0;
-        for(int i = 1; i <= amount; i++){
-            for(int x : coins){
-                if(i-x >= 0 && dp[i-x] != INT_MAX){
-                    dp[i] = min(dp[i],1+dp[i-x]);
-                }
-            }
+    int coinChange(vector<int>& arr, int T) {
+        int n = arr.size();
+
+        vector<int> prev(T + 1, 0);
+        vector<int> cur(T + 1, 0);
+
+        for (int i = 0; i <= T; i++) {
+            if (i % arr[0] == 0) prev[i] = i / arr[0];
+            else prev[i] = 1e9;
         }
-        if(dp[amount] != INT_MAX) return dp[amount];
-        return -1;
+        for (int ind = 1; ind < n; ind++) {
+            for (int target = 0; target <= T; target++) {
+                int notTake = prev[target];
+                int take = 1e9;
+                if (arr[ind] <= target)
+                    take = 1 + cur[target - arr[ind]];
+                cur[target] = min(notTake, take);
+            }
+            prev = cur;
+        }
+        int ans = prev[T];
+        if (ans >= 1e9) return -1;
+        return ans;
     }
 };
