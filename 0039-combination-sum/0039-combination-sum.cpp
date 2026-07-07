@@ -1,27 +1,24 @@
+#include <bits/stdc++.h>
 class Solution {
 public:
-vector<vector<int>> ans;
-    void f(vector<int>& arr , int t , int idx , vector<int>& sub){
-        if(t==0){
-            ans.push_back(sub);
-            return ;
+    void f(vector<int>& arr, int target, vector<int>& ds, int idx,
+           vector<vector<int>>& ans) {
+        if (idx == arr.size()) {
+            if (target == 0)
+                ans.push_back(ds);
+            return;
         }
-        if(idx==arr.size()) return;
-        if(arr[idx] <= t){
-            sub.push_back(arr[idx]);
-            f(arr,t-arr[idx],idx,sub);
-            sub.pop_back();
+        if (arr[idx] <= target) {
+            ds.push_back(arr[idx]);
+            f(arr, target - arr[idx], ds, idx, ans);
+            ds.pop_back();
         }
-        int j = idx+1;
-        // while(j < arr.size() and arr[j]==arr[j-1]) j++;
-            f(arr,t,j,sub);
+        f(arr, target, ds, idx+1, ans);
     }
-
     vector<vector<int>> combinationSum(vector<int>& arr, int target) {
-        sort(arr.begin(),arr.end());
-        vector<int>a;
-        ans.clear();
-        f(arr,target,0,a);
+        vector<vector<int>> ans;
+        vector<int> ds;
+        f(arr, target, ds, 0, ans);
         return ans;
     }
 };
