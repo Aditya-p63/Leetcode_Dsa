@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
