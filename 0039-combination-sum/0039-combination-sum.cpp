@@ -1,24 +1,27 @@
 class Solution {
 public:
-    void
-    com(vector<vector<int>>& ans, vector<int> a, vector<int>& candidates,
-        int target,int idx) {
-            if(target==0){
-                ans.push_back(a);
-                return;
-            }
-            if(target<0) return;
-            for(int i=idx;i<candidates.size();i++){
-                a.push_back(candidates[i]);
-                com(ans,a,candidates,target-candidates[i],i);
-                a.pop_back();
-            }
+vector<vector<int>> ans;
+    void f(vector<int>& arr , int t , int idx , vector<int>& sub){
+        if(t==0){
+            ans.push_back(sub);
+            return ;
         }
-        vector<vector<int>> combinationSum(vector<int>& candidates,
-                                                    int target) {
-        vector<int> a;
-        vector<vector<int>> ans;
-        com(ans, a, candidates, target, 0);
+        if(idx==arr.size()) return;
+        if(arr[idx] <= t){
+            sub.push_back(arr[idx]);
+            f(arr,t-arr[idx],idx,sub);
+            sub.pop_back();
+        }
+        int j = idx+1;
+        // while(j < arr.size() and arr[j]==arr[j-1]) j++;
+            f(arr,t,j,sub);
+    }
+
+    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+        sort(arr.begin(),arr.end());
+        vector<int>a;
+        ans.clear();
+        f(arr,target,0,a);
         return ans;
     }
 };
