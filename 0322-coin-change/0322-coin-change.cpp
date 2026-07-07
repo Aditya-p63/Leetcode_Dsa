@@ -1,25 +1,16 @@
 class Solution {
 public:
-    int f(vector<int>& coins, int rem, vector<int>& dp) {
-        if (rem == 0)
-            return 0;
-        if (rem < 0)
-            return -1;
-        if (dp[rem] != -2)
-            return dp[rem];
-        int mini = INT_MAX;
-
-        for (int coin : coins) {
-            int res = f(coins, rem - coin, dp);
-
-            if (res >= 0 && res < mini)
-                mini = 1 + res;
-        }
-        dp[rem] = (mini == INT_MAX) ? -1 : mini;
-        return dp[rem];
-    }
     int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount + 1, -2);
-        return f(coins,amount,dp);
+        vector<int>dp(amount+1 , INT_MAX);
+        dp[0] = 0;
+        for(int i = 1; i <= amount; i++){
+            for(int x : coins){
+                if(i-x >= 0 && dp[i-x] != INT_MAX){
+                    dp[i] = min(dp[i],1+dp[i-x]);
+                }
+            }
+        }
+        if(dp[amount] != INT_MAX) return dp[amount];
+        return -1;
     }
 };
