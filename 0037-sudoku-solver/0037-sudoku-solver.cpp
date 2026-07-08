@@ -1,40 +1,40 @@
 class Solution {
 public:
-    bool issafe(vector<vector<char>> & v , int r , int c , int num){
-        for(int i = 0; i < 9; i++){
-            if(v[r][i] - '0' == num ) return false;
-        }
-        for(int i = 0; i < 9; i++){
-            if(v[i][c] - '0' == num ) return false;
+    bool isValid(vector<vector<char>>& board, int row, int col, char c) {
+        for (int i = 0; i < 9; i++) {
+            if (board[i][col] == c)return false;
         }
 
-        int x = (r/3)*3;
-        int y = (c/3)*3;
-        for(int i = x; i < x+3; i++ ){
-            for(int j = y; j < y+3; j++){
-                if(v[i][j]-'0'==num) return false;
+        for (int j = 0; j < 9; j++) {
+            if (board[row][j] == c)return false;
+        }
+
+        int boxRowStart = 3 * (row / 3);
+        int boxColStart = 3 * (col / 3);
+
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                if (board[boxRowStart + i][boxColStart + j] == c)return false;
             }
         }
         return true;
-
-
     }
-
-        bool f(vector<vector<char>>& v, int r, int c) {
-        if (r == 9) return true;
-        if (c == 9) return f(v, r + 1, 0);
-        if (v[r][c] != '.') return f(v, r, c + 1);
-        for (int j = 1; j <= 9; j++) {
-            if(issafe(v, r, c, j)) {
-                v[r][c] = '0'+j;
-                bool rt = f(v, r, c + 1);
-                if (rt) return true;
-                v[r][c] = '.';
+    bool f(vector<vector<char>>& board) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] == '.') {
+                    for (char c = '1'; c <= '9'; c++) {
+                        if (isValid(board, i, j, c)) {
+                            board[i][j] = c;
+                            if (f(board))return true;
+                            board[i][j] = '.';
+                        }
+                    }
+                    return false;
+                }
             }
         }
-        return false;
+        return true;
     }
-    void solveSudoku(vector<vector<char>>& board) {
-        f(board,0,0);
-    }
+    void solveSudoku(vector<vector<char>>& board) { f(board); }
 };
