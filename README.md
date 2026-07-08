@@ -208,6 +208,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -229,4 +230,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
