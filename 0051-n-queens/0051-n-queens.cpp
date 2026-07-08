@@ -1,36 +1,49 @@
 class Solution {
 public:
-    void solve(int col, vector<string>& board, int n, vector<int>& leftRow,
-               vector<int>& upperDiagonal, vector<int>& lowerDiagonal,
-               vector<vector<string>>& ans) {
-        if (col == n) {
-            ans.push_back(board);
+    vector<vector<char>>grid;
+    vector<vector<string>>ans;
+    bool canplaceq(int r , int col , int n){
+        for(int i = r-1; i >= 0; i--){
+            if(grid[i][col]=='Q'){
+                return false;
+            }
+        }
+        for(int i = r-1 , j = col - 1; i >= 0 and j >= 0 ; i--,j--){
+            if(grid[i][j]=='Q') return false;
+        }
+
+        for(int i = r-1 , j = col + 1; i >= 0 and j < n; i--,j++){
+            if(grid[i][j]=='Q') return false;
+        }
+        return true;
+    }
+    void f(int r , int n){
+        if(r==n){
+            vector<string>temp;
+            for(int i = 0; i < n; i++){
+                string s = "";
+                for(int j = 0; j < n; j++){
+                    s+=grid[i][j];
+                }
+                temp.push_back(s);
+            }
+            ans.push_back(temp);
             return;
         }
-        for (int row = 0; row < n; row++) {
-            if (leftRow[row] == 0 && lowerDiagonal[row + col] == 0 &&
-                upperDiagonal[n - 1 + col - row] == 0) {
-
-                board[row][col] = 'Q';
-                leftRow[row] = 1;
-                lowerDiagonal[row + col] = 1;
-                upperDiagonal[n - 1 + col - row] = 1;
-
-                solve(col + 1, board, n, leftRow, upperDiagonal, lowerDiagonal,
-                      ans);
-                board[row][col] = '.';
-                leftRow[row] = 0;
-                lowerDiagonal[row + col] = 0;
-                upperDiagonal[n - 1 + col - row] = 0;
+        for(int col = 0; col < n; col++){
+            if(canplaceq(r,col,n)){
+                grid[r][col]='Q';
+                f(r+1,n);
+                grid[r][col]='.';
             }
+
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<string> board(n, string(n, '.'));
-        vector<int> leftRow(n, 0), upperDiagonal(2 * n - 1, 0),
-            lowerDiagonal(2 * n - 1, 0);
-        solve(0, board, n, leftRow, upperDiagonal, lowerDiagonal, ans);
+        grid.clear();
+        ans.clear();
+        grid.resize(n,vector<char>(n,'.'));
+        f(0,n);
         return ans;
     }
 };
