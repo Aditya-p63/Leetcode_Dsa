@@ -36,6 +36,7 @@
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -210,10 +212,12 @@
 | [0042-trapping-rain-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
