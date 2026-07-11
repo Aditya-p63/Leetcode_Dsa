@@ -4,38 +4,30 @@ public:
     stack<int> help;
     MyQueue() {}
 
-    void push(int x) { st.push(x); }
+    void push(int x) {
+        if (st.size() == 0) {
+            st.push(x);
+            return;
+        } else {
+            while (st.size() > 0) {
+                help.push(st.top());
+                st.pop();
+            }
+            st.push(x);
+            while (help.size() > 0) {
+                st.push(help.top());
+                help.pop();
+            }
+        }
+    }
 
     int pop() {
-        while (st.size() > 0) {
-            int x = st.top();
-            st.pop();
-            help.push(x);
-        }
-        int x = help.top();
-        help.pop();
-        while (help.size() > 0) {
-            int y = help.top();
-            help.pop();
-            st.push(y);
-        }
+        int x = st.top();
+        st.pop();
         return x;
     }
 
-    int peek() {
-        while (st.size() > 0) {
-            int x = st.top();
-            st.pop();
-            help.push(x);
-        }
-        int x = help.top();
-        while (help.size() > 0) {
-            int y = help.top();
-            help.pop();
-            st.push(y);
-        }
-        return x;
-    }
+    int peek() { return st.top(); }
 
     bool empty() {
         if (st.size() == 0)
