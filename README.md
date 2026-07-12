@@ -39,6 +39,7 @@
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@
 | [0048-rotate-image](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
