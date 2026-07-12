@@ -1,32 +1,28 @@
 class MinStack {
 public:
-stack<int>st;
-stack<int>helpher;
+vector<int>a;
 
     MinStack() {
         
     }
     
     void push(int val) {
-        st.push(val);
-        if(helpher.size() == 0 || val<helpher.top()){
-            helpher.push(val);
-        }
-        else {
-            helpher.push(helpher.top());
-        }
+       a.push_back(val);
     }
     
     void pop() {
-        st.pop();
-        helpher.pop();
+        a.pop_back();
     }
     
     int top() {
-        return st.top();
+        return a[a.size()-1];
     }
     
     int getMin() {
-        return helpher.top();
+        int mx = INT_MAX;
+        for(int i = 0 ; i < a.size() ; i++){
+            if(a[i]<mx) mx = a[i];
+        }
+        return mx;
     }
 };
