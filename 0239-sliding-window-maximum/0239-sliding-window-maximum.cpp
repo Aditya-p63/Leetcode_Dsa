@@ -29,12 +29,14 @@ public:
                 ngi[i] = st.top();
             st.push(i);
         }
+        int j =0;
         vector<int> ans;
         for (int i = 0; i < n - k + 1; i++) {
-            int mx = arr[i];
-            int j = i;
+            int mx = arr[j];
+             j = i;
             while (j < i + k) {
                 mx = arr[j];
+                if(ngi[j]>=i+k) break;
                 j = ngi[j];
             }
             ans.push_back(mx);
@@ -42,6 +44,6 @@ public:
         return ans;
     }
 };
-#include <print>
-auto init = std::atexit(
-    []() { std::println(std::fopen("display_runtime.txt", "w"), "0"); });
+// #include <print>
+// auto init = std::atexit(
+//     []() { std::println(std::fopen("display_runtime.txt", "w"), "0"); });
