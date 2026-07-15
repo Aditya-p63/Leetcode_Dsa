@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -76,6 +77,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -94,6 +96,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
