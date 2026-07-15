@@ -180,6 +180,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 ## Trie
