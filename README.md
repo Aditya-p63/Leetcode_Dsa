@@ -129,6 +129,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -150,6 +151,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
 ## Math
