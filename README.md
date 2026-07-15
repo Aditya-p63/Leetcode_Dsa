@@ -32,6 +32,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
@@ -72,6 +73,7 @@
 | [0063-unique-paths-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -271,6 +273,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
@@ -318,6 +321,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -354,5 +358,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
