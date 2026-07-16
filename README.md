@@ -62,6 +62,7 @@
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +197,7 @@
 | [0038-count-and-say](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
