@@ -71,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -121,6 +122,7 @@
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
@@ -140,6 +142,7 @@
 | [0191-number-of-1-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
