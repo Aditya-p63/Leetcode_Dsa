@@ -41,6 +41,7 @@
 | [0229-majority-element-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0876-middle-of-the-linked-list) |
