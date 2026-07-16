@@ -172,6 +172,7 @@
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0060-permutation-sequence](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
