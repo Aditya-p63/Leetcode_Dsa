@@ -227,6 +227,7 @@
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0434-number-of-segments-in-a-string) |
 ## Trie
 |  |
 | ------- |
