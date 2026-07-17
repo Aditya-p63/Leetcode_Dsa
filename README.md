@@ -47,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
@@ -75,6 +76,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -128,6 +130,7 @@
 | [0242-valid-anagram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
