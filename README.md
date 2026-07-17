@@ -48,6 +48,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -133,6 +135,7 @@
 | [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
