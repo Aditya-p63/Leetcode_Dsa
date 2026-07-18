@@ -161,6 +161,7 @@
 | [0389-find-the-difference](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0693-binary-number-with-alternating-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
