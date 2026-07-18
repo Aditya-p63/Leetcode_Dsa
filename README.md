@@ -175,6 +175,7 @@
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
+| [0688-knight-probability-in-chessboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0688-knight-probability-in-chessboard) |
 ## Divide and Conquer
 |  |
 | ------- |
