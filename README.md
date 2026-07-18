@@ -111,6 +111,7 @@
 | [0283-move-zeroes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -197,6 +198,7 @@
 | [0263-ugly-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
@@ -220,6 +222,7 @@
 | [0367-valid-perfect-square](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 ## Counting
 |  |
 | ------- |
