@@ -171,6 +171,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
+| [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0263-ugly-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0367-valid-perfect-square) |
+| [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
