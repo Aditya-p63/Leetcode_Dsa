@@ -166,6 +166,7 @@
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0367-valid-perfect-square](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 ## Recursion
 |  |
