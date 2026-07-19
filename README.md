@@ -82,6 +82,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 ## Matrix
 |  |
@@ -256,6 +257,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0696-count-binary-substrings) |
+| [0771-jewels-and-stones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
