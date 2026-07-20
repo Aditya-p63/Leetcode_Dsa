@@ -62,6 +62,7 @@
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -91,6 +92,7 @@
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
 | ------- |
