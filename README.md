@@ -375,6 +375,7 @@
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0841-keys-and-rooms](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -418,6 +419,7 @@
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -454,6 +456,7 @@
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
