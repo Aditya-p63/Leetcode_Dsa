@@ -66,6 +66,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -261,6 +262,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -492,6 +495,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
