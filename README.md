@@ -414,6 +414,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -433,6 +434,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0841-keys-and-rooms](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0841-keys-and-rooms) |
+| [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -456,6 +459,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
 |  |
