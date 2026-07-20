@@ -61,6 +61,7 @@
 | [0905-sort-array-by-parity](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -156,6 +157,7 @@
 | [0905-sort-array-by-parity](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
@@ -389,6 +391,7 @@
 | [0239-sliding-window-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Sliding Window
 |  |
 | ------- |
@@ -483,6 +486,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Radix Sort
 |  |
 | ------- |
