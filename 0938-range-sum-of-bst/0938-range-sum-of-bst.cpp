@@ -1,22 +1,20 @@
 class Solution {
 public:
- void inorder(TreeNode* root , vector<int>&v){
-        if(root==NULL) return;
-        inorder(root->left,v);
-        v.push_back(root->val);
-        inorder(root->right,v);
-    }
     int rangeSumBST(TreeNode* root, int low, int high) {
-        // this is a brutte force solution
-        vector<int>v;
-        inorder(root,v);
-        int sum = 0 ;
-        int n = v.size();
-        for(int i = 0 ; i <= n ; i++){
-            if(v[i]<=high && v[i]>=low){
-                sum+=v[i];
-            }
-        }
+        //this is optimized
+        if (root == NULL) return 0;
+
+        int sum = 0;
+
+        if (root->val >= low && root->val <= high)
+            sum = root->val;
+
+        if (root->val > low)
+            sum += rangeSumBST(root->left, low, high);
+
+        if (root->val < high)
+            sum += rangeSumBST(root->right, low, high);
+
         return sum;
     }
 };
