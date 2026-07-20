@@ -22,7 +22,7 @@ public:
     TreeNode* bstFromPreorder(vector<int>& pre) {
         TreeNode* root  = new TreeNode(pre[0]);
         for(int i = 1  ; i <pre.size() ; i++ ){
-            TreeNode* temp = new TreeNode(pre[i]);
+            // TreeNode* temp = new TreeNode(pre[i]);
             insertIntoBST(root , pre[i]);
         }
         return root;
