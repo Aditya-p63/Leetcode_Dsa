@@ -58,6 +58,7 @@
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -121,6 +122,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0905-sort-array-by-parity) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -149,6 +151,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
