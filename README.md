@@ -70,6 +70,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [0841-keys-and-rooms](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 ## Design
 |  |
 | ------- |
@@ -460,6 +463,7 @@
 | [0437-path-sum-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0437-path-sum-iii) |
 | [0841-keys-and-rooms](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
+| [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 ## Binary Tree
 |  |
 | ------- |
