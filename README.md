@@ -191,6 +191,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
