@@ -76,6 +76,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
@@ -551,6 +554,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
 | ------- |
