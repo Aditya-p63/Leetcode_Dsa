@@ -246,6 +246,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Recursion
 |  |
 | ------- |
