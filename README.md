@@ -72,6 +72,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1046-last-stone-weight](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1046-last-stone-weight) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -244,6 +245,7 @@
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |
