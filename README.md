@@ -73,6 +73,7 @@
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1046-last-stone-weight](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 | [1323-maximum-69-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1323-maximum-69-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0688-knight-probability-in-chessboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Divide and Conquer
 |  |
 | ------- |
