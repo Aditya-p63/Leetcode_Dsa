@@ -80,6 +80,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
