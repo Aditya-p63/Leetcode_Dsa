@@ -78,6 +78,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
