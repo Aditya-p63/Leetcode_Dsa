@@ -338,6 +338,7 @@
 | [0696-count-binary-substrings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1108-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
 | ------- |
@@ -469,6 +470,7 @@
 | [0239-sliding-window-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
