@@ -80,7 +80,6 @@
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [1470-shuffle-the-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
