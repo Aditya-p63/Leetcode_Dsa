@@ -7,15 +7,11 @@ public:
             pq.push(nums[i]);
         }
         int sum = 0;
-        int x = 1;
-        while(x>0){
-            int n = pq.top();
+            int c = pq.top();
             pq.pop();
             int m = pq.top();
-            int k = (n-1)*(m-1);
+            int k = (c-1)*(m-1);
             sum = k;
-            x--;
-        }
         return sum;
     }
 };
