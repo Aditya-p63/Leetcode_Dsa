@@ -88,6 +88,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -420,6 +421,7 @@
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -478,6 +480,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -586,6 +589,7 @@
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Radix Sort
 |  |
 | ------- |
