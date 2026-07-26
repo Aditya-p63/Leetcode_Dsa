@@ -86,6 +86,7 @@
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -346,6 +347,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
