@@ -89,6 +89,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@
 | [1323-maximum-69-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -206,6 +208,7 @@
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
