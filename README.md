@@ -288,6 +288,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
@@ -584,6 +585,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
 ## Radix Sort
 |  |
 | ------- |
