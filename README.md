@@ -350,6 +350,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1678-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |
