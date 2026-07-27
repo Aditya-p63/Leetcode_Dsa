@@ -235,6 +235,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
