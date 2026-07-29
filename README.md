@@ -77,6 +77,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -120,6 +121,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
@@ -334,6 +336,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
