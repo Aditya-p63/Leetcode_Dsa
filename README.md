@@ -583,6 +583,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |
 | ------- |
