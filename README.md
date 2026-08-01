@@ -92,6 +92,7 @@
 | [1672-richest-customer-wealth](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -589,6 +590,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1732-find-the-highest-altitude) |
 ## Doubly-Linked List
 |  |
 | ------- |
