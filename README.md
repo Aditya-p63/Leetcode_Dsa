@@ -131,7 +131,6 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
-| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
 |  |
 | ------- |
@@ -373,7 +372,6 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1678-goal-parser-interpretation) |
-| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
