@@ -189,6 +189,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -307,6 +308,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
