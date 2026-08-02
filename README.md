@@ -97,6 +97,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -220,6 +221,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
