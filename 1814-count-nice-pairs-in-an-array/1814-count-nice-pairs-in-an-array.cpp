@@ -13,24 +13,21 @@ public:
     int countNicePairs(vector<int>& nums) {
         int n = nums.size();
         long long count = 0;
-
+        unordered_map<int,int>m;
         // Step 1: Transform nums[i]
         for (int i = 0; i < n; i++) {
             nums[i] = nums[i] - rev(nums[i]);
         }
 
-        // Step 2: Count frequencies
-        unordered_map<int, long long> mp;
-        for (int i = 0; i < n; i++) {
-            mp[nums[i]]++;
+        for(int i = 0 ; i < n ; i++ ){
+            if(m.find(nums[i])!=m.end()){
+                count = (count % 1000000007);
+                count+=m[nums[i]];  
+            }
+            m[nums[i]]++;
+            
         }
 
-        // Step 3: For each frequency, count pairs using nC2 = f*(f-1)/2
-        for (auto &x : mp) {
-            long long freq = x.second;
-            count += (freq * (freq - 1)) / 2;
-        }
-
-        return (int)(count % 1000000007); // Use modulo (required by LeetCode)
+        return (count % 1000000007); 
     }
 };
