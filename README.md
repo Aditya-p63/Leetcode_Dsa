@@ -315,6 +315,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -644,8 +645,10 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
