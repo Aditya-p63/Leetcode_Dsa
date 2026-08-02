@@ -101,6 +101,7 @@
 | [1920-build-array-from-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -316,6 +317,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -651,4 +653,5 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
