@@ -135,6 +135,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
