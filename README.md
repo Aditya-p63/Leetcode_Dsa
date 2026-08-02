@@ -96,6 +96,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
