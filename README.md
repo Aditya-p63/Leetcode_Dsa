@@ -102,6 +102,7 @@
 | [1929-concatenation-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -617,6 +618,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1991-find-the-middle-index-in-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
