@@ -104,6 +104,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -393,6 +394,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
@@ -638,6 +640,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Radix Sort
 |  |
 | ------- |
