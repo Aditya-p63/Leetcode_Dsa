@@ -577,6 +577,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
