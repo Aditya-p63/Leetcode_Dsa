@@ -1,16 +1,14 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        bool found = true;
-        while (found) {
-            found = false;
-            for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == original) {
-                    original *= 2;
-                    found = true;
-                    break;
-                }
-            }
+        int n = nums.size();
+        unordered_map<int,int>mp;
+        for(int i = 0 ; i < n ; i++){
+            mp[nums[i]]++;
+        }
+        while(true){
+            if(mp.count(original)) original*=2;
+            else break;
         }
         return original;
     }
