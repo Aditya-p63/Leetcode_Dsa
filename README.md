@@ -119,6 +119,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -388,6 +391,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
