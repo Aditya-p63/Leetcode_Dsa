@@ -115,6 +115,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2239-find-closest-number-to-zero) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
