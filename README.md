@@ -107,6 +107,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2057-smallest-index-with-equal-value) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -150,6 +151,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Matrix
 |  |
@@ -245,6 +247,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -354,6 +357,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0779-k-th-symbol-in-grammar) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -687,6 +691,7 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
