@@ -116,6 +116,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2239-find-closest-number-to-zero) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -254,6 +257,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
@@ -518,6 +522,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -681,6 +686,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Radix Sort
 |  |
 | ------- |
