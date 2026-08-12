@@ -120,6 +120,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -695,6 +696,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 ## Radix Sort
 |  |
 | ------- |
