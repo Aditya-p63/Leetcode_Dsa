@@ -108,6 +108,7 @@
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2057-smallest-index-with-equal-value) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -418,6 +419,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
