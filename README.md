@@ -107,6 +107,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -245,6 +246,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -371,6 +373,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
