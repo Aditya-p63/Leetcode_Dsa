@@ -379,6 +379,7 @@
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
