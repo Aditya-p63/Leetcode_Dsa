@@ -120,6 +120,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -365,6 +366,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
