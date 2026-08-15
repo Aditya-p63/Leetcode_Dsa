@@ -372,6 +372,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
+| [2652-sum-multiples](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
