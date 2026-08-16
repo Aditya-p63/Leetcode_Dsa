@@ -135,6 +135,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -451,6 +453,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
