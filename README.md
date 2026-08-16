@@ -126,6 +126,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
@@ -174,6 +175,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
