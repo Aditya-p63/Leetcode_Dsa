@@ -16,10 +16,11 @@ public:
                 maxele = v[i];
             }
         }
-        reverse(ans.begin(),ans.end());
-        ListNode* fin = new ListNode(ans[0]);
+        // reverse(ans.begin(),ans.end());
+        n = ans.size();
+        ListNode* fin = new ListNode(ans[n-1]);
         temp = fin;
-        for(int i = 1 ; i < ans.size(); i++){
+        for(int i = n-2 ; i >=0 ; i--){
             temp->next = new ListNode(ans[i]);
             temp = temp->next;
         }
