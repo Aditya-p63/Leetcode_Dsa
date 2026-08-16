@@ -119,6 +119,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
@@ -170,6 +171,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
@@ -376,6 +378,7 @@
 | [2235-add-two-integers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2235-add-two-integers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
@@ -752,21 +755,34 @@
 | [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
