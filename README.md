@@ -132,6 +132,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
