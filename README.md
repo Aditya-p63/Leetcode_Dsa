@@ -393,6 +393,7 @@
 | [0326-power-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0779-k-th-symbol-in-grammar) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -513,6 +514,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -542,6 +545,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
