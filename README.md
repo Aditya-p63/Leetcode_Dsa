@@ -129,6 +129,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -176,6 +177,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
