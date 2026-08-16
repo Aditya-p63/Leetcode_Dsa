@@ -134,6 +134,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -575,6 +577,7 @@
 | [1046-last-stone-weight](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -743,6 +746,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 ## Radix Sort
 |  |
 | ------- |
