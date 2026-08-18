@@ -144,6 +144,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
