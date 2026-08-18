@@ -137,6 +137,7 @@
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3024-type-of-triangle) |
+| [3151-special-array-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
