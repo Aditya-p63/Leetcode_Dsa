@@ -140,6 +140,7 @@
 | [3151-special-array-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -546,6 +548,7 @@
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
