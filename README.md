@@ -143,6 +143,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
@@ -416,6 +418,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
