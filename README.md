@@ -147,7 +147,6 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
-| [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,7 +253,6 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
-| [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -314,7 +312,6 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3024-type-of-triangle) |
-| [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -429,7 +426,6 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
-| [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 ## Recursion
 |  |
 | ------- |
