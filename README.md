@@ -148,6 +148,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
+| [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
 | ------- |
