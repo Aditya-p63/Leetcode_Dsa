@@ -145,6 +145,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
