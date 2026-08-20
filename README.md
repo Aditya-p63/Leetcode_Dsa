@@ -151,6 +151,7 @@
 | [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -487,6 +489,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
