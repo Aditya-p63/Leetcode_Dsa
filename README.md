@@ -149,6 +149,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -784,6 +786,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Radix Sort
 |  |
 | ------- |
