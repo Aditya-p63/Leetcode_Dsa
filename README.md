@@ -153,6 +153,7 @@
 | [3701-compute-alternating-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
