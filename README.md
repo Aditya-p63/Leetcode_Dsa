@@ -156,6 +156,7 @@
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3979-maximum-valid-pair-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -824,6 +825,7 @@
 | [1952-three-divisors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
 | ------- |
