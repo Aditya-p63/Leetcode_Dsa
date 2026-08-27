@@ -155,6 +155,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [3024-type-of-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3024-type-of-triangle) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Backtracking
 |  |
 | ------- |
