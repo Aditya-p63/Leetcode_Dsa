@@ -157,6 +157,7 @@
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -782,6 +783,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3903-smallest-stable-index-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
