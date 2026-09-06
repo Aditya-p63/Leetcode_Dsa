@@ -368,6 +368,7 @@
 | [0053-maximum-subarray](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
@@ -513,6 +514,7 @@
 | [0020-valid-parentheses](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0205-isomorphic-strings) |
