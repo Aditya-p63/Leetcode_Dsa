@@ -1,39 +1,29 @@
 class Solution {
 public:
-bool check(int mid,vector<int>& weights, int days){
-    int n=weights.size();
-    int m=mid;
-    int count=1;
-    for(int i=0;i<n;i++){
-        if(m>=weights[i]) m-=weights[i];
-        else {
-            count++;
-            m=mid;
-            m-=weights[i];
+    int f(vector<int>& arr, int x) {
+        int n = arr.size();
+        int ans = 1, curr = 0;
+        for (int i = 0; i < n; i++) {
+            if (curr + arr[i] <= x)
+                curr += arr[i];
+            else {
+                ans++;
+                curr = arr[i];
+            }
         }
+        return ans;
     }
-    if(count>days) return false;
-    else return true;
-}
-    int shipWithinDays(vector<int>& weights, int days) {
-       int n=weights.size();
-       int max=INT_MIN;
-       int sum=0;
-       for(int i=0;i<n;i++){
-        if(max<weights[i]) max=weights[i];
-            sum+=weights[i];
-       }
-       int lo=max;
-       int hi=sum;
-       int mincapacity=sum;
-       while(lo<=hi){
-        int mid=lo+(hi-lo)/2;
-        if(check(mid,weights,days)){
-            mincapacity=mid;
-            hi=mid-1;
+    int shipWithinDays(vector<int>& v, int x) {
+        int sum = accumulate(v.begin(), v.end(), 0);
+        int high = *max_element(v.begin(), v.end());
+        int lo = high , hi = sum;
+        while(lo<=hi){
+            int mid = lo + (hi-lo)/2;
+            if(f(v,mid)<=x){
+                hi = mid-1;
+            }else lo = mid+1;
         }
-        else lo=mid+1;
-       } 
-       return mincapacity;
+        return lo;
     }
 };
+
