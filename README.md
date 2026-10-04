@@ -280,6 +280,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0781-rabbits-in-forest) |
 | [1323-maximum-69-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -379,6 +380,7 @@
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0688-knight-probability-in-chessboard) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -530,6 +532,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1108-defanging-an-ip-address) |
@@ -616,6 +619,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -883,5 +887,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
