@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0649-dota2-senate) |
@@ -383,6 +385,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0688-knight-probability-in-chessboard) |
@@ -489,6 +492,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0633-sum-of-square-numbers) |
@@ -795,6 +799,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1732-find-the-highest-altitude) |
