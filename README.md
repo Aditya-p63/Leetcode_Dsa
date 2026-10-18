@@ -90,6 +90,7 @@
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1672-richest-customer-wealth) |
@@ -398,6 +399,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
@@ -415,6 +417,7 @@
 | [0493-reverse-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -441,6 +444,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -575,10 +579,12 @@
 | [0139-word-break](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -741,6 +747,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -782,6 +789,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -793,6 +801,7 @@
 | [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -804,6 +813,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -909,4 +919,8 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
