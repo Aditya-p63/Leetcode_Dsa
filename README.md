@@ -567,6 +567,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
