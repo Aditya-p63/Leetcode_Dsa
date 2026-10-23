@@ -157,6 +157,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -376,6 +377,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2032-two-out-of-three) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
