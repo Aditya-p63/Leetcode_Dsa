@@ -74,6 +74,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1046-last-stone-weight](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -239,6 +240,7 @@
 | [0867-transpose-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1672-richest-customer-wealth) |
@@ -701,6 +703,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -773,6 +776,7 @@
 | [0938-range-sum-of-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0938-range-sum-of-bst) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -816,6 +820,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
