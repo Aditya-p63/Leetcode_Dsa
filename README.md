@@ -158,6 +158,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3618-split-array-by-prime-indices) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3668-restore-finishing-order](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3668-restore-finishing-order) |
@@ -250,6 +251,7 @@
 | [2614-prime-in-diagonal](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -704,6 +706,7 @@
 | [0994-rotting-oranges](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -777,6 +780,7 @@
 | [1034-coloring-a-border](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -822,6 +826,7 @@
 | [0200-number-of-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
