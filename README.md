@@ -168,6 +168,7 @@
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -252,6 +253,7 @@
 | [2643-row-with-maximum-ones](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,6 +411,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
