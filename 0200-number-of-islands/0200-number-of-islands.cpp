@@ -1,44 +1,31 @@
 class Solution {
 public:
-    int numIslands(vector<vector<char>>& grid) {
-        int row = grid.size();
-        int col = grid[0].size();
-        int cc = 0;
-        for(int i = 0 ; i < row ; i++){
-            for(int j = 0 ; j < col ; j++){
-                if(grid[i][j]=='0') {
-                    //it is a water body 
-                    continue;
-                }
-                cc++;
-                grid[i][j]='0';
-                queue<pair<int,int>>q;
-                q.push({i,j});
-                while(not q.empty()){
-                    auto curr = q.front();
-                    q.pop();
-                    //go to all neighbours of the current node
-                    int curr_row = curr.first;
-                    int curr_col = curr.second;
-                    if(curr_row-1>=0 && grid[curr_row-1][curr_col]=='1'){
-                        q.push({curr_row-1,curr_col});
-                        grid[curr_row-1][curr_col]='0';
-                    }
-                    if(curr_row+1<row && grid[curr_row+1][curr_col]=='1'){
-                        q.push({curr_row+1,curr_col});
-                        grid[curr_row+1][curr_col]='0';
-                    }
-                    if(curr_col-1>=0 && grid[curr_row][curr_col-1]=='1'){
-                        q.push({curr_row,curr_col-1});
-                        grid[curr_row][curr_col-1]='0';
-                    }
-                    if(curr_col+1<col && grid[curr_row][curr_col+1]=='1'){
-                        q.push({curr_row,curr_col+1});
-                        grid[curr_row][curr_col+1]='0';
-                    }
+    void dfs(vector<vector<char>>& adj, int i, int j) {
+        int n = adj.size(), m = adj[0].size();
+
+        if (i < 0 || i >= n || j < 0 || j >= m || adj[i][j] == '0') {
+            return;
+        }
+        int dx[4] = {-1, 0, 1, 0};
+        int dy[4] = {0, 1, 0, -1};
+        adj[i][j] = '0';
+        for (int k = 0; k < 4; k++) {
+            int drow = i + dx[k];
+            int dcol = j + dy[k];
+            dfs(adj, drow, dcol);
+        }
+    }
+    int numIslands(vector<vector<char>>& adj) {
+        int n = adj.size(), m = adj[0].size();
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (adj[i][j] == '1') {
+                    count++;
+                    dfs(adj, i, j);
                 }
             }
         }
-        return cc;
+        return count;
     }
 };
