@@ -583,6 +583,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -874,6 +875,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
