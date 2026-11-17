@@ -292,6 +292,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 ## Greedy
 |  |
@@ -416,6 +417,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -585,6 +587,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
