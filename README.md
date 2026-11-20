@@ -150,6 +150,7 @@
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3024-type-of-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3151-special-array-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -358,6 +359,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3024-type-of-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3649-number-of-perfect-pairs](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -418,6 +420,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-p63/Leetcode_Dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
